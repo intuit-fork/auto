@@ -1,2 +1,1 @@
-# auto
-Intuit Bugbounty POC
+# Intuit Bugbounty POC
